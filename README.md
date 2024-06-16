@@ -1,51 +1,45 @@
-- 👋 Hi, I’m @gowrish28gog
-- 👀 I’m interested in Software Development, Data Science, and Machine Learning Engineering.
-- 🌱 I’m currently learning advanced topics in Data Science and Machine Learning,
-  including MLOps, NLP, and Large Language Models, as part of my Master's program at Northeastern University.
-- 💞️ I’m looking to collaborate on projects involving Autonomous Driving, Artificial Intelligence, Deep Learning, Computer Vision, and Natural Language Processing.
-- 📫 How to reach me: gunupati.g@northeastern.edu | [LinkedIn](https://www.linkedin.com/in/gowreeshgunupati) | [GitHub](https://www.github.com/gowrish28gog)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm the Vice President of the Khoury Masters Student Council.
-
-I enjoy running, dancing, graphic design, and more.
 
 <!-- README Intro -->
-<h2 align='center'>Hello! I am Jayantha Nanduri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px"></h2>
+<h2 align='center'>Hello! I am Gowreesh Gunupati<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px"></h2>
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A2595&random=false&width=435&lines=Machine-learning+Engineer;Data+Engineer;Full-stack+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A2595&random=false&width=435&lines=AI+Engineer+Machine-learning+Engineer;Data+Engineer;Full-stack+Developer">
   </a>
 </h1>
 <!-- <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/jayantha-nanduri/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/gowreeshgunupati/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 </h5> -->
 
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-- 👋 Hi, I’m Jayantha Nanduri currently pursuing Master's in Computer Science at Northeastern University, Boston.
-- 👀 Machine Learning Engineer with 2+ years of experience in Banking and Financial Technology. Skilled in developing scalable, efficient cloud-based Machine Learning projects using Python, PyTorch, Node.js, Docker, Kubernetes, and AWS.
-- 💞️ My passion lies in applying the comprehensive knowledge I've accumulated in machine learning to address real-world challenges effectively. I am particularly interested in integrating machine learning techniques with traditional algorithms to achieve significant performance improvements.
-- 🌱 I’m currently learning about LLMs, RAGs and how to trian them using AWS SageMaker. 
-<!-- ##- 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/jayantha-nanduri/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:jayantha.nanduri@gmail.com">jayantha.nanduri@gmail.com</a>. I'm open to exploring opportunities for data projects and collaborations! -->
-## Contact details
-<p>
+- 👋 Hi, I’m @gowrish28gog
+- 👀 I’m interested in Software Development, Data Science, and Machine Learning Engineering.
+- 🌱 I’m currently learning advanced topics in Data Science and Machine Learning,
+  including MLOps, NLP, and Large Language Models, as part of my Master's program at Northeastern University.
+- 💞️ I’m looking to collaborate on projects involving Autonomous Driving, Artificial Intelligence, Deep Learning, Computer Vision, and Natural Language Processing.
+- 📫 How to reach me: gunupati.g@northeastern.edu | [LinkedIn]() | [GitHub](https://www.github.com/gowrish28gog)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm the Vice President of the Khoury Masters Student Council.
+
+I enjoy running, dancing, graphic design, and more.
+
   
-<b>Connect with me on [![Linkedin: Jayantha Nanduri](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayantha-nanduri/) and let's have a chat!</b>
+<b>Connect with me on [![Linkedin: Gowreesh Gunupati](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gowreeshgunupati) and let's have a chat!</b>
 <br><i>or</i><br>
-<b>You can reach out to me on [![Gmail: Jayantha Nanduri](https://img.shields.io/badge/-jayantha.nanduri@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jayantha.nanduri@gmail.com)
+<b>You can reach out to me on [![Gmail: Gowreesh Gunupati](https://img.shields.io/badge/-jayantha.nanduri@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gowrish28og@gmail.com)
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <p align="center"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaynanduri&theme=default" alt="Jayantha's stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaynanduri&theme=default" alt="Jayantha's stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gowrish28gog&theme=default" alt="Gowreesh's stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gowrish28gog&theme=default" alt="Gowreesh's stats" />
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jaynanduri" alt="Jayantha's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gowrish28gog" alt="Gowreesh's streak" />
 </p>
 
 <!-- <div align="center">
