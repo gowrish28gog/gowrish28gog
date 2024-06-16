@@ -28,7 +28,7 @@ I enjoy running, dancing, graphic design, and more.
   
 <b>Connect with me on [![Linkedin: Gowreesh Gunupati](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gowreeshgunupati) and let's have a chat!</b>
 <br><i>or</i><br>
-<b>You can reach out to me on [![Gmail: Gowreesh Gunupati](https://img.shields.io/badge/-jayantha.nanduri@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gowrish28og@gmail.com)
+<b>You can reach out to me on [![Gmail: Gowreesh Gunupati](https://img.shields.io/badge/-gowrish28gog@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gowrish28og@gmail.com)
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
